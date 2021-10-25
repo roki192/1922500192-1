@@ -1,0 +1,2 @@
+# 1922500192-1
+Nama : Roki Nim : 1922500192 Kelompok : SI2J , saya dapat menyimpulkan bahwa : Tata tertib perkuliahan, menjadi anak yang selalu baik Wordpress zip di download dari web wordpress.org Wordpress zip perlu di extract dan akan diperoleh folder wordpress Folder wordpress dapat direname menjadi apapun, misalnya nama kelompok si5a2122o Folder si5j2122o di letak  di dalam htdocs, diakses melalui URL http://localhost/si5j21220
